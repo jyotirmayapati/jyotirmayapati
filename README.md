@@ -1,16 +1,14 @@
-🚀 Frontend Developer | Passionate about crafting user interfaces with React, Chakra UI | Open to collaborations
+# Hi, I'm Jyotirmaya Pati 👋
 
-<!--
-**jyotirmayapati/jyotirmayapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+- 🛠 I specialize in crafting beautiful, responsive web applications using **React**, **Chakra UI**.
+- 💻 Currently working on several exciting projects, including a portfolio website and e-commerce applications.
+- 💡 Love solving problems with clean code and modern design principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Technologies & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat&logo=chakra-ui&logoColor=ffffff)
+
+### 🔗 Check out my [Portfolio]https://my-portfolio-jyotirmayapati.netlify.app/

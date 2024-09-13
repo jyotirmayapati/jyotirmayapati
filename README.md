@@ -1,4 +1,4 @@
-🚀 Frontend Developer | Passionate about crafting user interfaces with React, Chakra UI, and Next.js | Open to collaborations
+🚀 Frontend Developer | Passionate about crafting user interfaces with React, Chakra UI | Open to collaborations
 
 <!--
 **jyotirmayapati/jyotirmayapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

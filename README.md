@@ -1,10 +1,10 @@
 # Hi, I'm Jyotirmaya Pati 👋
 
-### 🚀 Frontend Developer | UI/UX Enthusiast | Open Source Contributor
+### 🚀 Full Stack Developer | UI/UX Enthusiast | Open Source Contributor
 
-- 🛠 I specialize in crafting beautiful, responsive web applications using **React**, **Chakra UI**.
-- 💻 Currently working on several exciting projects, including a portfolio website and e-commerce applications.
-- 💡 Love solving problems with clean code and modern design principles.
+🛠 I specialize in building scalable, responsive, and user-friendly web applications using React, Node.js, Express, and MongoDB.
+💻 Currently working on a portfolio website, e-commerce applications, and other exciting full-stack projects.
+💡 Passionate about solving problems with clean code, modern UI/UX principles, and efficient backend architecture.
 
 ### ⚙️ Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)

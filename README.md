@@ -11,4 +11,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat&logo=chakra-ui&logoColor=ffffff)
 
-### 🔗 Check out my [Portfolio]https://my-portfolio-jyotirmayapati.netlify.app/
+### 🔗 Check out my [Portfolio]https://portfolio-jyotirmaya-patis-projects.vercel.app/
